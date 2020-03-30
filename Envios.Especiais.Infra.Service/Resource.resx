@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EmailAndamentoMeridioQdtPublicacoesNaoCapturadas" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        body {
+            /*font-family: CALIBRI LIGHT;
+            font-size: 15px;*/
+            font-family: VERDANA;
+            font-size: 15px;
+        }
+    &lt;/style&gt;
+    &lt;meta charset="utf-8" /&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;center&gt;
+                    &lt;img src="https://kuriertecnologia.com.br/wp-content/uploads/2019/04/header-1.png" alt="" border="0" style="border: 0px solid"&gt;&lt;/a&gt;&lt;br&gt;
+                &lt;/center&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;br&gt;&lt;br&gt;
+                &lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;  
+					Prezado(a) &lt;span id="Nome"&gt;&lt;/span&gt;,&lt;br&gt;&lt;br&gt;    
+					Segue a baixo a lista da quantidade de ANDAMENTOS que NÃO foram capturados nos últimos 10 dias: &lt;br&gt;
+					&lt;/font&gt;
+                &lt;/div&gt;             
+            &lt;/td&gt;
+        &lt;/tr&gt;        
+    &lt;/table&gt;
+	&lt;/table&gt;  
+   &lt;table width="80%" border="0" align = "justify"&gt;  
+		 &lt;tr&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; IdCliente &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Login &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Nome &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Qtd Publicações &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;      
+		 &lt;/tr&gt;
+		 &lt;span id="textoEmail"&gt;&lt;/span&gt;
+	&lt;/table&gt;  
+	&lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;br&gt;&lt;br&gt;
+				&lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;
+					Atenciosamente,&lt;br&gt;   
+					Equipe Kurier&lt;br&gt;  
+					&lt;br&gt;  
+					&lt;/font&gt;
+                &lt;/div&gt;&lt;hr&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+    &lt;table style="text-align: left; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tbody&gt;
+            &lt;tr align="center"&gt;
+                &lt;td&gt;&lt;img src="http://kuriertecnologia.com.br/site/wp-content/uploads/2019/06/rodape-650x87px.png" border="0"&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EmailDistribuicao" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        body {
+            /*font-family: CALIBRI LIGHT;
+            font-size: 15px;*/
+            font-family: VERDANA;
+            font-size: 15px;
+        }
+    &lt;/style&gt;
+    &lt;meta charset="utf-8" /&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;center&gt;
+                    &lt;img src="https://kuriertecnologia.com.br/wp-content/uploads/2019/04/header-1.png" alt="" border="0" style="border: 0px solid"&gt;&lt;/a&gt;&lt;br&gt;
+                &lt;/center&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;br&gt;&lt;br&gt;
+                &lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;
+                        Prezado(a) &lt;span id="Nome"&gt;&lt;/span&gt;,&lt;br&gt;&lt;br&gt;
+                        Sempre no intuito de deixá-lo bem-informado, lembramos que seu teste no sistema Kurier Distribuição expira
+                        no dia &lt;b&gt; &lt;span id="DataFimTeste"&gt;&lt;/span&gt;&lt;/b&gt;. Após essa data, não mais estaremos enviando distribuições.
+                        Para que isso não ocorra, entre em contato com um dos nossos consultores ou responda este
+                        e-mail demonstrando seu interesse que retomaremos o contato para dar prosseguimento
+                        ao fornecimento das distribuições. &lt;br&gt;
+                        &lt;br&gt;
+                        Atenciosamente,&lt;br&gt;
+                        Equipe Kurier Distribuição&lt;br&gt;
+                        &lt;br&gt;
+                    &lt;/font&gt;
+                &lt;/div&gt;&lt;hr&gt;               
+            &lt;/td&gt;
+        &lt;/tr&gt;        
+    &lt;/table&gt;
+    &lt;table style="text-align: left; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tbody&gt;
+            &lt;tr align="center"&gt;
+                &lt;td&gt;&lt;img src="http://kuriertecnologia.com.br/site/wp-content/uploads/2019/06/rodape-650x87px.png" border="0"&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EmailDistribuicaoSituacaoPendente" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        body {
+            /*font-family: CALIBRI LIGHT;
+            font-size: 15px;*/
+            font-family: VERDANA;
+            font-size: 15px;
+        }
+    &lt;/style&gt;
+    &lt;meta charset="utf-8" /&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;center&gt;
+                    &lt;img src="https://kuriertecnologia.com.br/wp-content/uploads/2019/04/header-1.png" alt="" border="0" style="border: 0px solid"&gt;&lt;/a&gt;&lt;br&gt;
+                &lt;/center&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;br&gt;&lt;br&gt;
+                &lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;  
+					 Prezado(a) &lt;span id="Nome"&gt;&lt;/span&gt;,&lt;br&gt;&lt;br&gt;    
+					 Sempre no intuito de deixá-lo bem-informado, lembramos que seu teste no sistema Kurier Distribuição está   
+					 PENDENTE a partir de hoje, &lt;b&gt;  &lt;span id="Data"&gt;&lt;/span&gt;&lt;/b&gt;. Assim, não mais estaremos enviando distribuições.   
+					 Para continuar recebendo-as, entre em contato com um dos nossos consultores ou responda este   
+					 e-mail demonstrando seu interesse que retomaremos o contato para dar prosseguimento   
+					 ao fornecimento das distribuições. &lt;br&gt;  
+					 &lt;br&gt;  
+					 Atenciosamente,&lt;br&gt;   
+					 Equipe Kurier Distribuição&lt;br&gt;  
+					 &lt;br&gt;  
+					&lt;/font&gt;
+                &lt;/div&gt;&lt;hr&gt;               
+            &lt;/td&gt;
+        &lt;/tr&gt;        
+    &lt;/table&gt;
+    &lt;table style="text-align: left; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tbody&gt;
+            &lt;tr align="center"&gt;
+                &lt;td&gt;&lt;img src="http://kuriertecnologia.com.br/site/wp-content/uploads/2019/06/rodape-650x87px.png" border="0"&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EmailJuridicoMeridioQdtPublicacoesNaoCapturadas" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        body {
+            /*font-family: CALIBRI LIGHT;
+            font-size: 15px;*/
+            font-family: VERDANA;
+            font-size: 15px;
+        }
+    &lt;/style&gt;
+    &lt;meta charset="utf-8" /&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;center&gt;
+                    &lt;img src="https://kuriertecnologia.com.br/wp-content/uploads/2019/04/header-1.png" alt="" border="0" style="border: 0px solid"&gt;&lt;/a&gt;&lt;br&gt;
+                &lt;/center&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;br&gt;&lt;br&gt;
+                &lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;  
+					Prezado(a) &lt;span id="Nome"&gt;&lt;/span&gt;,&lt;br&gt;&lt;br&gt;    
+					Segue abaixo a lista das PUBLICAÇÕES não capturadas: &lt;br&gt;
+					&lt;/font&gt;
+                &lt;/div&gt;             
+            &lt;/td&gt;
+        &lt;/tr&gt;        
+    &lt;/table&gt;
+	&lt;/table&gt;  
+   &lt;table width="80%" border="0" align = "left"&gt;  
+		 &lt;tr&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; IdCliente &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Login &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Nome &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Data Publicação &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;  
+			&lt;td&gt;&lt;font size=2&gt;&lt;b&gt; Qtd Publicações &lt;/b&gt;&lt;/font&gt;&lt;/td&gt;      
+		 &lt;/tr&gt;
+		 &lt;span id="textoEmail"&gt;&lt;/span&gt;
+	&lt;/table&gt;   
+	&lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;br&gt;&lt;br&gt;
+				&lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;
+					Atenciosamente,&lt;br&gt;   
+					Equipe Kurier&lt;br&gt;  
+					&lt;br&gt;  
+					&lt;/font&gt;
+                &lt;/div&gt;&lt;hr&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+    &lt;table style="text-align: left; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tbody&gt;
+            &lt;tr align="center"&gt;
+                &lt;td&gt;&lt;img src="http://kuriertecnologia.com.br/site/wp-content/uploads/2019/06/rodape-650x87px.png" border="0"&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EmailKurierSituacaoPendente" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        body {
+            /*font-family: CALIBRI LIGHT;
+            font-size: 15px;*/
+            font-family: VERDANA;
+            font-size: 15px;
+        }
+    &lt;/style&gt;
+    &lt;meta charset="utf-8" /&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;table style="text-align: justify; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;center&gt;
+                    &lt;img src="https://kuriertecnologia.com.br/wp-content/uploads/2019/04/header-1.png" alt="" border="0" style="border: 0px solid"&gt;&lt;/a&gt;&lt;br&gt;
+                &lt;/center&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;br&gt;&lt;br&gt;
+                &lt;div align="justify"&gt;
+                    &lt;font size="2"&gt;  
+					 Prezado(a) &lt;span id="Nome"&gt;&lt;/span&gt;,&lt;br&gt;&lt;br&gt;    
+					Sempre no intuito de deixá-lo bem-informado, lembramos que seu teste no sistema Kurier está PENDENTE a partir de hoje,&lt;b&gt;&lt;span id="DataFimTeste"&gt;&lt;/span&gt;&lt;/b&gt;.   
+					Assim, não mais estaremos enviando publicações.   
+					Para continuar recebendo as publicações, entre em contato com um dos nossos consultores ou responda para   
+					nossa central de Atendimento, através do e-mail (atendimento@kurier.com.br),  
+					demonstrando seu interesse, que entraremos em contato para darmos prosseguimento a demanda. &lt;br&gt;  
+					&lt;br&gt;  
+					Atenciosamente,&lt;br&gt;   
+					Equipe Kurier&lt;br&gt;  
+					&lt;br&gt;  
+					&lt;/font&gt;
+                &lt;/div&gt;&lt;hr&gt;               
+            &lt;/td&gt;
+        &lt;/tr&gt;        
+    &lt;/table&gt;
+    &lt;table style="text-align: left; margin-left: auto; margin-right: auto; width: 650px;padding-left: 20px;padding-right: 20px" border="0" cellpadding="2" cellspacing="2"&gt;
+        &lt;tbody&gt;
+            &lt;tr align="center"&gt;
+                &lt;td&gt;&lt;img src="http://kuriertecnologia.com.br/site/wp-content/uploads/2019/06/rodape-650x87px.png" border="0"&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+</root>

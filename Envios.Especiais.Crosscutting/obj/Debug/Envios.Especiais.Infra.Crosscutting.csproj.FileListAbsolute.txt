@@ -1,0 +1,5 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Crosscutting\bin\Debug\Envios.Especiais.Crosscutting.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Crosscutting\bin\Debug\Envios.Especiais.Crosscutting.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Crosscutting\obj\Debug\Envios.Especiais.Crosscutting.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Crosscutting\obj\Debug\Envios.Especiais.Crosscutting.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Crosscutting\obj\Debug\Envios.Especiais.Infra.Crosscutting.csprojResolveAssemblyReference.cache

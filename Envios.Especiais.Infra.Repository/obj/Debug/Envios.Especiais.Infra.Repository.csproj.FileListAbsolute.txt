@@ -1,0 +1,9 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\bin\Debug\Envios.Especiais.Infra.Repository.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\bin\Debug\Envios.Especiais.Infra.Repository.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\bin\Debug\Dapper.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\bin\Debug\Envios.Especiais.Domain.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\bin\Debug\Envios.Especiais.Domain.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\bin\Debug\Dapper.xml
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\obj\Debug\Envios.Especiais.Infra.Repository.csprojResolveAssemblyReference.cache
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\obj\Debug\Envios.Especiais.Infra.Repository.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Repository\obj\Debug\Envios.Especiais.Infra.Repository.pdb

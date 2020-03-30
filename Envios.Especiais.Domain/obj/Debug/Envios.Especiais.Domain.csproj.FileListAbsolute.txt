@@ -1,0 +1,5 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Domain\bin\Debug\Envios.Especiais.Domain.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Domain\bin\Debug\Envios.Especiais.Domain.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Domain\obj\Debug\Envios.Especiais.Domain.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Domain\obj\Debug\Envios.Especiais.Domain.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Domain\obj\Debug\Envios.Especiais.Domain.csprojResolveAssemblyReference.cache

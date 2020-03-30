@@ -1,0 +1,14 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\obj\Debug\Envios.Especiais.Infra.Service.csprojResolveAssemblyReference.cache
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\Envios.Especiais.Infra.Service.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\Envios.Especiais.Infra.Service.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\Envios.Especiais.Domain.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\Newtonsoft.Json.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\Envios.Especiais.Domain.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\Newtonsoft.Json.xml
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\obj\Debug\Envios.Especiais.Infra.Service.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\obj\Debug\Envios.Especiais.Infra.Service.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\HtmlAgilityPack.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\HtmlAgilityPack.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\bin\Debug\HtmlAgilityPack.xml
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\obj\Debug\Envios.Especiais.Infra.Service.Resource.resources
+c:\users\william.santos\documents\visual studio 2015\Projects\KEnviosEspeciais\Envios.Especiais.Infra.Service\obj\Debug\Envios.Especiais.Infra.Service.csproj.GenerateResource.Cache
